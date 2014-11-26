@@ -2,5 +2,6 @@
 #include<math.h>
 using namespace std;
 Martin's message!
+Joels message.
 import sys
-sys.exit()
+sys.exit(0)
